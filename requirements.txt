@@ -1,0 +1,10 @@
+streamlit
+openai
+tiktoken
+tqdm
+pinecone
+time
+selenium
+webdriver-manager
+os
+sqlite3
