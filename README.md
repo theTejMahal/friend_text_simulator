@@ -10,6 +10,19 @@ cd text-message-analysis
 ### Install the required python packages:
 pip install -r requirements.txt
 
+## Grant Permissions
+
+Grant Full Disk Access to Terminal or your Python IDE:
+a. Open "System Preferences" on your Mac.
+b. Click on "Security & Privacy."
+c. Go to the "Privacy" tab.
+d. Scroll down and select "Full Disk Access" from the left sidebar.
+e. Click on the lock icon in the lower-left corner to make changes. You'll be prompted to enter your administrator password.
+f. Click the "+" button to add an application. Navigate to and select the Terminal app or your Python IDE (e.g., PyCharm, Visual Studio Code). The app will be added to the list of apps with Full Disk Access permission.
+g. Close the "System Preferences" window.
+
+Restart your Terminal or Python IDE to apply the changes.
+
 ## Usage
 
 ### Edit code
