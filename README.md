@@ -2,6 +2,11 @@
 
 Simulate chat with your friends based on your iMessage history. Uses GPT, Pinecone, and Streamlit. First, your conversations are loaded into the Pinecone vector database. For each query, the most relevant messages are pulled from Pinecone and used as context for the prompt to continue the conversation.
 
+## Video demo
+
+See here for example use. 
+https://user-images.githubusercontent.com/20506220/227788175-995b9a64-6a93-43e8-bc07-8df370efc6e1.mov
+
 ## Installation
 
 ### Clone the repository to your local machine:
@@ -37,11 +42,6 @@ streamlit run app.py
 
 ### Simulate conversations
 Open your web browser and navigate to the URL provided by Streamlit (usually http://localhost:8501/) to use the application. 
-
-## Video demo
-
-See here for example use. 
-https://user-images.githubusercontent.com/20506220/227788175-995b9a64-6a93-43e8-bc07-8df370efc6e1.mov
 
 ## Contributing
 
